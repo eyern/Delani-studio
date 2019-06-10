@@ -4,6 +4,8 @@ Ian Kipkoech
 Delani-studio
 ## Description of the project
 The project is about the implement on concepts learnt from Bootstrap and jQuery to recreate a landing page for a fictional studio.
+## Link to livesite on Git-hub
+https://eyern.github.io/Delani-studio/
 ## Set-up instructions
 most importantly the link to livesite on GitHub pages and the following; laptop/pc/smartphone or any PDA to access the website.
 ### Technologies used
